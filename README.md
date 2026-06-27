@@ -1,5 +1,14 @@
-## Hi there 👋
+<h2>Bem vindo ao meu perfil</h2> 
 
+Atualmente estou cursando Desenvolvimento de Sistemas na ETEC
+Possuo conhecimento em:
+<ul>
+  <li>Linguagens: JavaScript, PHP, HTML</li>
+  <li>IDE: Visual Studio Code</li>
+  <li>Frame Work: Bootstrap</li>
+  <li>Banco de Dados: MySQL</li>
+  <li>Sistemas Operacionais: Windows</li>
+</ul>
 <!--
 **Saraivath/Saraivath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
