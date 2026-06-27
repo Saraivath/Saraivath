@@ -1,7 +1,7 @@
 <h2>Bem vindo ao meu perfil</h2> 
 
 Atualmente estou cursando Desenvolvimento de Sistemas na ETEC
-Possuo conhecimento em:
+<p>Possuo conhecimento em:</p>
 <ul>
   <li>Linguagens: JavaScript, PHP, HTML</li>
   <li>IDE: Visual Studio Code</li>
